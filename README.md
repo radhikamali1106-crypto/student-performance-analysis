@@ -108,7 +108,7 @@ The dashboard provides a simple visual overview of student performance and helps
 1. Download or clone this repository.
 2. Open the Jupyter Notebook:
    
-   `Student_Performance_Analysis.ipynb`
+   `student_performance_analysis.ipynb`
 
 3. Install the required Python libraries:
 
