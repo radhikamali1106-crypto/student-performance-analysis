@@ -31,6 +31,7 @@ The objective is to understand students' marks, attendance, average performance,
 
 The dataset contains student information including:
 
+![Student Performance Dashboard](student_performance_dashboard.png)
 - Student Name
 - Mathematics marks
 - Science marks
