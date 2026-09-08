@@ -48,25 +48,15 @@ The dataset contains:
 
 📊 Visualizations
 
-Student Performance Summary
+![Student Performance Summary](student_performance_summary.png)
 
-"Student Performance Summary" (student_performance_summary.png)
+![Student Average Marks](student_average_marks.png)
 
-Student Average Marks
+![Attendance Correlation](attendance_correlation.png)
 
-"Student Average Marks" (student_average_marks.png)
+![Pass Fail Distribution](pass_fail_distribution.png)
 
-Attendance vs Performance
-
-"Attendance Correlation" (attendance_correlation.png)
-
-Pass/Fail Distribution
-
-"Pass Fail Distribution" (pass_fail_distribution.png)
-
-Class Performance Overview
-
-"Class Performance Overview" (class_performance_overview.png)
+![Class Performance Overview](class_performance_overview.png)
 
 📈 Key Results
 
