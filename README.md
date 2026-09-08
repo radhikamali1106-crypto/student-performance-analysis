@@ -31,7 +31,21 @@ The objective is to understand students' marks, attendance, average performance,
 
 The dataset contains student information including:
 
-![Student Performance Dashboard](student_performance_dashboard.png)
+### Student Performance Summary
+![Student Performance Summary](student_performance_summary.png)
+
+### Student Average Marks
+![Student Average Marks](student_average_marks.png)
+
+### Attendance vs Performance
+![Attendance Correlation](attendance_correlation.png)
+
+### Pass/Fail Distribution
+![Pass Fail Distribution](pass_fail_distribution.png)
+
+### Class Performance Overview
+![Class Performance Overview](class_performance_overview.png)
+
 - Student Name
 - Mathematics marks
 - Science marks
