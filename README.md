@@ -1,116 +1,110 @@
-# 📊 Student Performance Analysis
+📊 Student Performance Analysis
 
-## 📌 Project Overview
+📌 Project Overview
 
-This project analyzes students' academic performance using Python and data analysis techniques.
+This project analyzes students' academic performance using Python, Pandas, NumPy, and data visualization techniques.
 
-The objective is to understand students' marks, attendance, average performance, and pass/fail status through data analysis and visualization.
+The analysis focuses on marks, attendance, average performance, and pass/fail status to identify patterns and understand overall class performance.
 
-## 🎯 Objectives
+🎯 Objectives
 
 - Analyze students' academic performance
 - Calculate average marks
-- Compare student performance
-- Analyze attendance and academic performance
+- Compare individual student performance
+- Analyze the relationship between attendance and marks
 - Identify highest and lowest performers
 - Calculate class average
 - Analyze pass/fail distribution
-- Create an interactive performance dashboard
+- Create visualizations to present insights
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Python
 - Pandas
 - NumPy
 - Matplotlib
-- Data Visualization
-- Google Colab
 - Jupyter Notebook
+- Google Colab
 
-## 📂 Dataset
+📂 Dataset
 
-The dataset contains student information including:
-
-### Student Performance Summary
-![Student Performance Summary](student_performance_summary.png)
-
-### Student Average Marks
-![Student Average Marks](student_average_marks.png)
-
-### Attendance vs Performance
-![Attendance Correlation](attendance_correlation.png)
-
-### Pass/Fail Distribution
-![Pass Fail Distribution](pass_fail_distribution.png)
-
-### Class Performance Overview
-![Class Performance Overview](class_performance_overview.png)
+The dataset contains:
 
 - Student Name
-- Mathematics marks
-- Science marks
-- English marks
-- Attendance percentage
+- Mathematics Marks
+- Science Marks
+- English Marks
+- Attendance Percentage
 
-## 🔍 Analysis Performed
+🔍 Analysis Performed
 
-The project performs:
+- Data loading and cleaning
+- Exploratory Data Analysis (EDA)
+- Average marks calculation
+- Student performance comparison
+- Attendance vs. performance analysis
+- Pass/fail analysis
+- Data visualization
 
-1. Data loading
-2. Data cleaning
-3. Exploratory Data Analysis
-4. Average marks calculation
-5. Student performance comparison
-6. Attendance vs. performance analysis
-7. Pass/fail analysis
-8. Data visualization
-9. Dashboard creation
+📊 Visualizations
 
-## 📈 Key Results
+Student Performance Summary
+
+"Student Performance Summary" (student_performance_summary.png)
+
+Student Average Marks
+
+"Student Average Marks" (student_average_marks.png)
+
+Attendance vs Performance
+
+"Attendance Correlation" (attendance_correlation.png)
+
+Pass/Fail Distribution
+
+"Pass Fail Distribution" (pass_fail_distribution.png)
+
+Class Performance Overview
+
+"Class Performance Overview" (class_performance_overview.png)
+
+📈 Key Results
 
 - Total Students: 8
 - Class Average: 73.2
 - Highest Average Score: 91.7
 - Pass Rate: 87.5%
 
-## 📊 Dashboard
+💡 Key Insights
 
-The project includes visualizations for:
-## 📊 Dashboard & Visualizations
+- Students with higher attendance generally showed better academic performance.
+- The analysis helps identify high-performing and low-performing students.
+- Visualizations provide an easy-to-understand overview of class performance.
+- The results can help identify students who may need additional academic support.
 
-### Student Performance Summary
-![Student Performance Summary](student_performance_summary.png)
-
-### Student Average Marks
-![Student Average Marks](student_average_marks.png)
-
-### Attendance vs Performance
-![Attendance Correlation](attendance_correlation.png)
-
-### Pass/Fail Distribution
-![Pass Fail Distribution](pass_fail_distribution.png)
-
-### Class Performance Overview
-![Class Performance Overview](class_performance_overview.png)
-
-- Student Average Marks Comparison
-- Attendance vs. Performance Correlation
-- Pass/Fail Distribution
-
-## 💡 Key Insights
-
-The analysis shows that students with higher attendance generally tend to achieve better academic performance.
-
-The dashboard provides a simple visual overview of student performance and helps identify students who may need additional academic support.
-
-## 🚀 How to Run
+🚀 How to Run
 
 1. Download or clone this repository.
-2. Open the Jupyter Notebook:
-   
-   `student_performance_analysis.ipynb`
+2. Open "student_performance_analysis.ipynb" in Jupyter Notebook or Google Colab.
+3. Install the required libraries:
 
-3. Install the required Python libraries:
-
-```bash
 pip install pandas numpy matplotlib
+
+4. Run the notebook cells to reproduce the analysis and visualizations.
+
+📁 Project Files
+
+- "student_performance_analysis.ipynb" — Main analysis notebook
+- "student_data.csv" — Dataset
+- "student_performance_summary.png" — Performance summary visualization
+- "student_average_marks.png" — Average marks visualization
+- "attendance_correlation.png" — Attendance correlation visualization
+- "pass_fail_distribution.png" — Pass/fail visualization
+- "class_performance_overview.png" — Class performance visualization
+- "requirements.txt" — Required Python libraries
+
+👩‍💻 Author
+
+Radhika Mali
+
+Data Science Fresher | Python | Pandas | Data Analysis
