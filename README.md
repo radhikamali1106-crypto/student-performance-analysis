@@ -62,6 +62,22 @@ The project performs:
 ## 📊 Dashboard
 
 The project includes visualizations for:
+## 📊 Dashboard & Visualizations
+
+### Student Performance Summary
+![Student Performance Summary](student_performance_summary.png)
+
+### Student Average Marks
+![Student Average Marks](student_average_marks.png)
+
+### Attendance vs Performance
+![Attendance Correlation](attendance_correlation.png)
+
+### Pass/Fail Distribution
+![Pass Fail Distribution](pass_fail_distribution.png)
+
+### Class Performance Overview
+![Class Performance Overview](class_performance_overview.png)
 
 - Student Average Marks Comparison
 - Attendance vs. Performance Correlation
